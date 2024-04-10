@@ -31,6 +31,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "homework-6",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,6 +60,7 @@
       <workItem from="1712251086740" duration="1654000" />
       <workItem from="1712752535260" duration="119000" />
       <workItem from="1712752661824" duration="905000" />
+      <workItem from="1712763107727" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="homework 6">
       <option name="closed" value="true" />
@@ -68,7 +70,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712752772135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework 6">
+      <option name="closed" value="true" />
+      <created>1712763130083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712763130083</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework 6">
+      <option name="closed" value="true" />
+      <created>1712763184985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712763184986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
